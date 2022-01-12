@@ -1,2 +1,3 @@
 # Recommendation_System
-Codes about Recommendation system
+
+**This repo containes different techniques which can be used for recommendation system**
